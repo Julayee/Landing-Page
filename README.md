@@ -1,4 +1,4 @@
-Landing Page - 2nd Udacity Project
+Landing Page
 
 ## Languages used :
 - HTML
